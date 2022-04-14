@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b421b755-cb8c-4b05-9e5a-24f4e05803ef": {
+      "ProjectGuid": "b421b755-cb8c-4b05-9e5a-24f4e05803ef",
+      "DisplayName": "ZeroRootKiller",
+      "ColorIndex": 0
+    },
+    "e748a0dd-00ea-4fd6-8f3b-25df3aa2ef7e": {
+      "ProjectGuid": "e748a0dd-00ea-4fd6-8f3b-25df3aa2ef7e",
+      "DisplayName": "ZeroRootKillerServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,2 +1,2 @@
 # ZeroRootKiller
-Dev>NULL
+Dev>NULL evil
